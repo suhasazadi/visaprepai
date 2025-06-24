@@ -1,1 +1,6 @@
-body { font-family: sans-serif; background: #f9f9f9; padding: 2rem; }
+body { 
+  font-family: sans-serif; 
+  background: #f9f9f9; 
+  padding: 2rem; 
+  margin: 0;
+}
